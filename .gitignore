@@ -17,9 +17,6 @@ yarn-error.log*
 .env
 .env.*.local
 
-# VS Code
-.vscode/
-
 # OS
 .DS_Store
 
