@@ -34,3 +34,5 @@
 
 If your `dbt_project.yml` is located at the workspace root, this automatic search and navigation are unnecessary.
  In that case, please modify the extension accordingly.
+
+[Zenn](https://zenn.dev/yuichi_dev/articles/7a9a334ba96494)
